@@ -11,3 +11,9 @@ The goal of this repository is to follow along with the book, implement key conc
 - This repository is for learning and experimentation.
 - Code is adapted from the book with modifications for better understanding.
 - Some notebooks may include additional explanations, tests, and variations.
+- All notebooks in this repository are **open-source** and part of the interactive learning resources inspired by O’Reilly’s **Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow** by Aurélien Géron.
+- My only intention is to practice and reinforce the concepts covered in the book.
+- The original repository by Aurélien Géron can be found here: [Handson-ML2](https://github.com/ageron/handson-ml2).
+
+---
+Happy Learning! 🚀
